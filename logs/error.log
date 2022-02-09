@@ -1,0 +1,24 @@
+2022/02/07 22:58:52 [error] 15096#10508: *1 CreateFile() "C:\Users\carne\Documents\nginx-1.20.2/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/02/07 23:00:31 [notice] 18152#16692: signal process started
+2022/02/07 23:00:55 [notice] 17632#6204: signal process started
+2022/02/07 23:00:55 [error] 17632#6204: CreateFile() "C:\Users\carne\Documents\nginx-1.20.2/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2022/02/07 23:01:18 [notice] 16580#16524: signal process started
+2022/02/07 23:01:18 [error] 16580#16524: CreateFile() "C:\Users\carne\Documents\nginx-1.20.2/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2022/02/07 23:01:35 [notice] 15772#14936: signal process started
+2022/02/07 23:01:35 [error] 15772#14936: CreateFile() "C:\Users\carne\Documents\nginx-1.20.2/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2022/02/07 23:05:42 [notice] 3700#5420: signal process started
+2022/02/07 23:05:42 [error] 3700#5420: CreateFile() "C:\Users\carne\Documents\nginx-1.20.2/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2022/02/08 17:32:55 [error] 14984#16956: *1 CreateFile() "C:\Users\carne\Documents\nginx-1.20.2/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/02/09 16:17:13 [notice] 9872#9200: signal process started
+2022/02/09 16:17:13 [error] 9872#9200: OpenEvent("Global\ngx_reload_424") failed (2: El sistema no puede encontrar el archivo especificado)
+2022/02/09 16:47:31 [notice] 14104#4180: signal process started
+2022/02/09 16:48:02 [error] 7716#12368: *1 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /info/ HTTP/1.1", upstream: "http://[::1]:8082/info/", host: "localhost"
+2022/02/09 16:48:04 [error] 7716#12368: *1 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /info/ HTTP/1.1", upstream: "http://127.0.0.1:8082/info/", host: "localhost"
+2022/02/09 16:48:05 [error] 7716#12368: *1 CreateFile() "./MSQmigrando/PrimerFinalBack/src/public/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/info/"
+2022/02/09 16:49:27 [error] 7716#12368: *9 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /info/ HTTP/1.1", upstream: "http://127.0.0.1:8080/info/", host: "localhost"
+2022/02/09 16:52:32 [error] 7716#12368: *14 CreateFile() "./MSQmigrando/PrimerFinalBack/src/public/socket.io/socket.io.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /socket.io/socket.io.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/02/09 16:52:32 [error] 7716#12368: *15 CreateFile() "./MSQmigrando/PrimerFinalBack/src/public/socket.io/socket.io.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /socket.io/socket.io.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/02/09 16:54:53 [error] 7716#12368: *17 CreateFile() "./MSQmigrando/PrimerFinalBack/src/public/socket.io/socket.io.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /socket.io/socket.io.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/02/09 16:54:53 [error] 7716#12368: *17 CreateFile() "./MSQmigrando/PrimerFinalBack/src/public/socket.io/socket.io.js" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: localhost, request: "GET /socket.io/socket.io.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/02/09 17:09:41 [notice] 13364#4804: signal process started
+2022/02/09 17:09:49 [notice] 14816#12092: signal process started
